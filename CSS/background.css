@@ -1,0 +1,42 @@
+/*
+body {
+    background-image: url("../images/bg.jpg");
+}
+*/
+
+body {
+    background: url(../images/macbook-pro.jpeg)
+    no-repeat center center fixed;
+    background-size: cover;
+}
+
+div {
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 
+}
+
+.blue {
+    background-color: darkturquoise;
+    color: white;
+    margin-top: 3em;
+}
+
+.white {
+    background-color: white;
+    color: #054857;
+    margin-top: inherit;
+    
+}
+i {
+    color: blue;
+}
+
+h1 {
+/*    margin: 0 auto;*/
+    text-align: center;
+/*    width: 500px;*/
+/*    border: 3px solid red;*/
+    font-family: 'Macondo', cursive;
+    font-size: 3em;
+}

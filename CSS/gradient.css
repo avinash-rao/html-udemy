@@ -1,0 +1,26 @@
+.linear {
+    width: 300px;
+    height: 400px;
+    background: linear-gradient(rgba(0,0,0,0),red);
+}
+
+.linear-right {
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(to right,blue,red);
+}
+
+.radial {
+    width: 300px;
+    height: 200px;
+    background: radial-gradient(white,red);
+}
+
+.next {
+    background: radial-gradient(white,grey);
+    height: 200px;
+}
+input[type="checkbox"]:checked + label {
+    text-decoration: line-through;
+    
+}

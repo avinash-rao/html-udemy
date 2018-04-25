@@ -1,0 +1,30 @@
+body {
+    
+}
+
+/*  order: link,visited,hover,active  */
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 5px;
+    
+}
+
+a:link {
+    padding: 12px 50px;
+    background-color: hsl(120, 100%, 50%);
+    color: black;
+    
+}
+
+a:visited {
+    background-color: black;
+    color: white;
+}
+
+a:hover {
+/*    background: darkgray;*/
+    box-shadow: 
+}
